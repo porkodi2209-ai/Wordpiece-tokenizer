@@ -1,0 +1,8 @@
+Natural language processing is a part of artificial intelligence.
+Computers can understand human language using NLP.
+Tokenization divides text into smaller units.
+WordPiece is a subword tokenization technique.
+It can split unknown words into smaller pieces.
+Machine learning uses tokens as input.
+NLP is used in chatbots and virtual assistants.
+WordPiece tokenization is useful in many NLP applications.
